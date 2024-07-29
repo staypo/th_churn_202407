@@ -1,0 +1,2343 @@
+Transaction_id,Compliant_type,Compliant_status
+T035742,not received,Affirm fault
+T060432,not received,merchant fault
+T070676,never shipped,merchant fault
+T093463,not as described,merchant fault
+T047848,not as described,Affirm fault
+T017296,not as described,merchant fault
+T094874,never shipped,Affirm fault
+T082333,not as described,buyer fault
+T070261,not received,buyer fault
+T114521,not as described,buyer fault
+T002889,not as described,Affirm fault
+T040011,not received,Affirm fault
+T076128,not received,Affirm fault
+T021085,not as described,buyer fault
+T007876,not as described,Affirm fault
+T054904,not as described,merchant fault
+T045145,not received,merchant fault
+T028517,not received,Affirm fault
+T081163,never shipped,buyer fault
+T043673,not as described,Affirm fault
+T093076,not as described,Affirm fault
+T019850,not as described,buyer fault
+T042656,not received,merchant fault
+T013088,not as described,buyer fault
+T113587,not received,merchant fault
+T093553,not as described,merchant fault
+T009236,not as described,buyer fault
+T034346,not received,Affirm fault
+T017420,not received,buyer fault
+T053315,never shipped,buyer fault
+T054941,not received,Affirm fault
+T022365,not as described,buyer fault
+T104135,never shipped,Affirm fault
+T069422,not received,Affirm fault
+T006729,not as described,buyer fault
+T098850,never shipped,merchant fault
+T009791,not received,buyer fault
+T059115,not as described,buyer fault
+T044921,not as described,buyer fault
+T058512,not received,Affirm fault
+T074739,never shipped,buyer fault
+T010202,not as described,merchant fault
+T023542,not received,Affirm fault
+T052911,not as described,Affirm fault
+T069374,not received,merchant fault
+T080509,not as described,merchant fault
+T091900,not received,merchant fault
+T008842,never shipped,buyer fault
+T092825,not as described,buyer fault
+T030224,not as described,buyer fault
+T072419,never shipped,merchant fault
+T063055,not received,merchant fault
+T049562,never shipped,merchant fault
+T094858,never shipped,buyer fault
+T074242,not as described,merchant fault
+T031686,not received,merchant fault
+T049687,not as described,Affirm fault
+T068134,never shipped,Affirm fault
+T006214,never shipped,buyer fault
+T071991,not as described,merchant fault
+T086424,never shipped,merchant fault
+T019148,never shipped,Affirm fault
+T035421,not as described,Affirm fault
+T070472,never shipped,merchant fault
+T059108,not received,merchant fault
+T053938,never shipped,merchant fault
+T049627,never shipped,merchant fault
+T040900,never shipped,merchant fault
+T036333,not as described,merchant fault
+T065830,not received,merchant fault
+T079193,never shipped,buyer fault
+T062129,never shipped,merchant fault
+T069168,not received,merchant fault
+T004219,never shipped,Affirm fault
+T005744,not received,buyer fault
+T086435,never shipped,Affirm fault
+T112065,never shipped,merchant fault
+T079854,not received,merchant fault
+T054426,never shipped,merchant fault
+T055235,never shipped,merchant fault
+T025194,never shipped,Affirm fault
+T100229,never shipped,buyer fault
+T045816,not as described,merchant fault
+T028144,never shipped,buyer fault
+T098686,not as described,merchant fault
+T029770,not as described,merchant fault
+T097530,not as described,buyer fault
+T056429,not as described,Affirm fault
+T055075,never shipped,buyer fault
+T072961,not as described,merchant fault
+T098083,not as described,Affirm fault
+T009024,never shipped,buyer fault
+T066429,not received,Affirm fault
+T089128,not as described,buyer fault
+T064788,not as described,buyer fault
+T024869,not as described,Affirm fault
+T047274,not received,buyer fault
+T102388,not received,Affirm fault
+T112338,not as described,Affirm fault
+T040351,not received,buyer fault
+T075969,not received,Affirm fault
+T049499,not as described,Affirm fault
+T069515,never shipped,Affirm fault
+T112490,not as described,Affirm fault
+T105122,not as described,Affirm fault
+T054382,not received,merchant fault
+T038953,not as described,Affirm fault
+T081902,never shipped,Affirm fault
+T076392,not received,buyer fault
+T013601,not as described,merchant fault
+T034391,not received,merchant fault
+T040071,not received,buyer fault
+T079256,not received,Affirm fault
+T053140,never shipped,merchant fault
+T104643,not received,Affirm fault
+T032583,not received,buyer fault
+T096661,not as described,merchant fault
+T093262,not received,buyer fault
+T046910,not received,buyer fault
+T010777,never shipped,buyer fault
+T010183,not as described,Affirm fault
+T088442,not received,buyer fault
+T036880,not as described,merchant fault
+T022125,never shipped,merchant fault
+T107413,not received,buyer fault
+T020671,never shipped,merchant fault
+T000594,not received,Affirm fault
+T111797,not as described,buyer fault
+T008090,not received,merchant fault
+T090131,never shipped,Affirm fault
+T031120,never shipped,buyer fault
+T100611,never shipped,merchant fault
+T061928,never shipped,buyer fault
+T013122,not as described,buyer fault
+T115577,not as described,merchant fault
+T022917,not as described,buyer fault
+T102189,never shipped,Affirm fault
+T069365,not as described,merchant fault
+T047889,not received,buyer fault
+T066147,not received,buyer fault
+T053262,never shipped,Affirm fault
+T026304,never shipped,buyer fault
+T002661,never shipped,merchant fault
+T008278,never shipped,merchant fault
+T040355,not received,Affirm fault
+T073545,not as described,Affirm fault
+T071558,never shipped,buyer fault
+T043674,never shipped,Affirm fault
+T066844,not as described,buyer fault
+T098220,never shipped,buyer fault
+T104836,not received,Affirm fault
+T113958,not as described,buyer fault
+T064564,not as described,Affirm fault
+T052518,not received,Affirm fault
+T067313,never shipped,Affirm fault
+T004052,never shipped,merchant fault
+T110310,not as described,buyer fault
+T000088,never shipped,Affirm fault
+T069414,never shipped,merchant fault
+T052951,never shipped,merchant fault
+T071435,never shipped,buyer fault
+T055054,never shipped,Affirm fault
+T103371,never shipped,Affirm fault
+T113177,not as described,Affirm fault
+T037792,never shipped,Affirm fault
+T106728,not received,merchant fault
+T003936,never shipped,buyer fault
+T111370,not received,buyer fault
+T023466,not as described,buyer fault
+T016559,never shipped,buyer fault
+T017716,not as described,merchant fault
+T004538,not received,buyer fault
+T116035,not received,Affirm fault
+T087180,not received,buyer fault
+T065798,not received,Affirm fault
+T071581,never shipped,merchant fault
+T032139,not as described,Affirm fault
+T110637,not received,buyer fault
+T023029,not received,Affirm fault
+T097116,never shipped,buyer fault
+T062263,not as described,merchant fault
+T076129,not received,Affirm fault
+T035292,not received,Affirm fault
+T076595,never shipped,buyer fault
+T017184,never shipped,buyer fault
+T110512,not as described,Affirm fault
+T044923,not as described,buyer fault
+T036628,not received,buyer fault
+T067124,never shipped,Affirm fault
+T041468,not received,buyer fault
+T061778,never shipped,Affirm fault
+T096498,not received,Affirm fault
+T012270,never shipped,Affirm fault
+T061127,never shipped,merchant fault
+T088397,not as described,merchant fault
+T112815,never shipped,Affirm fault
+T109120,not received,Affirm fault
+T041885,never shipped,merchant fault
+T108535,never shipped,merchant fault
+T001984,not received,merchant fault
+T036953,not received,buyer fault
+T104149,not as described,merchant fault
+T091012,not as described,buyer fault
+T099178,never shipped,buyer fault
+T073455,never shipped,buyer fault
+T038526,not as described,merchant fault
+T090685,never shipped,buyer fault
+T031398,not as described,Affirm fault
+T020293,not received,Affirm fault
+T010155,not received,Affirm fault
+T098574,never shipped,merchant fault
+T006233,not received,buyer fault
+T113185,not as described,merchant fault
+T032269,not received,Affirm fault
+T060183,not as described,Affirm fault
+T000506,never shipped,Affirm fault
+T062038,not received,Affirm fault
+T091839,not as described,Affirm fault
+T007272,not received,Affirm fault
+T085683,not as described,merchant fault
+T113456,never shipped,buyer fault
+T079893,not received,merchant fault
+T059062,not received,buyer fault
+T082483,not as described,merchant fault
+T036338,never shipped,Affirm fault
+T054677,not as described,Affirm fault
+T080814,not as described,merchant fault
+T003712,not received,merchant fault
+T046671,not received,merchant fault
+T061978,not as described,merchant fault
+T112796,never shipped,buyer fault
+T057711,not as described,Affirm fault
+T002443,not as described,merchant fault
+T018888,not received,buyer fault
+T015101,not received,buyer fault
+T074165,not received,buyer fault
+T074002,not as described,buyer fault
+T086091,never shipped,buyer fault
+T058911,never shipped,merchant fault
+T093837,not as described,buyer fault
+T097142,not as described,merchant fault
+T058382,not as described,buyer fault
+T031278,not as described,Affirm fault
+T069089,not as described,merchant fault
+T006520,never shipped,buyer fault
+T085242,never shipped,Affirm fault
+T111267,not as described,Affirm fault
+T010222,not received,Affirm fault
+T002998,never shipped,buyer fault
+T053069,never shipped,Affirm fault
+T021397,not received,Affirm fault
+T031568,never shipped,Affirm fault
+T070231,never shipped,merchant fault
+T088055,not as described,merchant fault
+T023026,not received,buyer fault
+T101554,not as described,buyer fault
+T035605,not as described,buyer fault
+T036708,never shipped,buyer fault
+T110541,never shipped,buyer fault
+T077566,not as described,buyer fault
+T005866,not received,buyer fault
+T072364,not received,merchant fault
+T081675,not received,merchant fault
+T008348,not received,merchant fault
+T074064,not received,buyer fault
+T014520,never shipped,buyer fault
+T078329,never shipped,Affirm fault
+T081323,not received,merchant fault
+T103333,not received,buyer fault
+T003819,not as described,merchant fault
+T020071,not as described,merchant fault
+T079936,not as described,merchant fault
+T077247,never shipped,merchant fault
+T024474,not received,buyer fault
+T104921,not received,buyer fault
+T011467,never shipped,merchant fault
+T095518,never shipped,buyer fault
+T095210,not received,Affirm fault
+T087392,not as described,merchant fault
+T024894,never shipped,Affirm fault
+T006764,not received,buyer fault
+T109574,not received,buyer fault
+T108424,not as described,Affirm fault
+T016687,not as described,Affirm fault
+T103885,never shipped,merchant fault
+T027265,not received,Affirm fault
+T073216,not as described,buyer fault
+T057952,never shipped,Affirm fault
+T054652,not received,merchant fault
+T067512,not as described,merchant fault
+T038362,not as described,merchant fault
+T090460,never shipped,Affirm fault
+T112020,not as described,Affirm fault
+T041983,not received,Affirm fault
+T049670,not as described,merchant fault
+T031365,not as described,buyer fault
+T087169,never shipped,merchant fault
+T036085,not as described,buyer fault
+T108277,not received,Affirm fault
+T014268,not as described,Affirm fault
+T068037,not received,merchant fault
+T046477,not as described,merchant fault
+T083327,never shipped,buyer fault
+T015845,not as described,Affirm fault
+T084533,never shipped,merchant fault
+T059899,not as described,merchant fault
+T079634,never shipped,buyer fault
+T080893,not received,Affirm fault
+T030548,not as described,Affirm fault
+T115612,never shipped,merchant fault
+T049899,not as described,Affirm fault
+T062534,not received,merchant fault
+T060571,not received,buyer fault
+T085582,never shipped,merchant fault
+T047707,never shipped,Affirm fault
+T102787,never shipped,buyer fault
+T000343,not received,merchant fault
+T082220,not received,merchant fault
+T024370,not as described,buyer fault
+T067532,never shipped,merchant fault
+T065277,never shipped,buyer fault
+T098963,never shipped,merchant fault
+T082170,not as described,buyer fault
+T114576,not as described,Affirm fault
+T026527,not received,buyer fault
+T010086,never shipped,merchant fault
+T067977,not received,Affirm fault
+T033030,not received,buyer fault
+T111783,not received,Affirm fault
+T002585,never shipped,buyer fault
+T049763,not as described,Affirm fault
+T007321,not received,merchant fault
+T038402,not as described,buyer fault
+T010899,not as described,Affirm fault
+T024628,not as described,Affirm fault
+T056856,not received,merchant fault
+T020238,not as described,Affirm fault
+T020633,not received,buyer fault
+T076095,not as described,Affirm fault
+T082341,never shipped,merchant fault
+T046634,never shipped,buyer fault
+T111294,not as described,Affirm fault
+T101639,not received,merchant fault
+T096402,not as described,Affirm fault
+T007731,not received,Affirm fault
+T035660,not as described,merchant fault
+T080554,not received,Affirm fault
+T070770,never shipped,Affirm fault
+T087519,not received,Affirm fault
+T072899,not received,buyer fault
+T069645,not as described,merchant fault
+T045200,not as described,buyer fault
+T080948,never shipped,merchant fault
+T051074,not as described,merchant fault
+T055900,never shipped,merchant fault
+T051699,not received,Affirm fault
+T091242,not received,buyer fault
+T052164,never shipped,buyer fault
+T082462,not received,buyer fault
+T007120,never shipped,Affirm fault
+T067931,not as described,Affirm fault
+T087505,not received,merchant fault
+T007163,never shipped,buyer fault
+T005179,never shipped,buyer fault
+T006236,not as described,merchant fault
+T017096,never shipped,Affirm fault
+T045624,not received,Affirm fault
+T022393,never shipped,merchant fault
+T066932,not as described,buyer fault
+T055295,never shipped,merchant fault
+T004251,not received,merchant fault
+T050566,not as described,Affirm fault
+T077794,not as described,Affirm fault
+T074618,never shipped,buyer fault
+T062616,never shipped,merchant fault
+T096551,never shipped,buyer fault
+T087139,not received,merchant fault
+T055835,not received,Affirm fault
+T032258,never shipped,buyer fault
+T046562,never shipped,buyer fault
+T102466,never shipped,merchant fault
+T116047,not received,buyer fault
+T086533,never shipped,buyer fault
+T017497,never shipped,buyer fault
+T015761,not received,Affirm fault
+T107509,never shipped,merchant fault
+T109769,not received,merchant fault
+T114566,not as described,buyer fault
+T092138,not received,Affirm fault
+T051649,not received,buyer fault
+T014166,never shipped,buyer fault
+T021915,not received,merchant fault
+T022339,never shipped,Affirm fault
+T053865,not received,merchant fault
+T068428,not received,buyer fault
+T064783,not as described,buyer fault
+T025521,not as described,merchant fault
+T071899,never shipped,Affirm fault
+T071170,not received,merchant fault
+T075203,never shipped,merchant fault
+T011804,not received,merchant fault
+T107297,not as described,Affirm fault
+T073020,not received,Affirm fault
+T000187,not received,merchant fault
+T063900,not as described,merchant fault
+T104841,not as described,Affirm fault
+T063406,not received,merchant fault
+T109070,not as described,Affirm fault
+T016681,not as described,merchant fault
+T116115,never shipped,merchant fault
+T038062,not received,Affirm fault
+T066797,not as described,buyer fault
+T108585,not as described,merchant fault
+T113876,never shipped,merchant fault
+T023270,never shipped,Affirm fault
+T051201,not received,buyer fault
+T075183,never shipped,merchant fault
+T019483,not received,Affirm fault
+T089714,not received,Affirm fault
+T003495,not as described,Affirm fault
+T011889,not received,Affirm fault
+T019731,not as described,merchant fault
+T051054,not received,merchant fault
+T035603,never shipped,merchant fault
+T022333,not as described,buyer fault
+T092551,never shipped,Affirm fault
+T034251,not received,merchant fault
+T001220,not received,Affirm fault
+T038854,not received,merchant fault
+T114207,not received,Affirm fault
+T053651,not received,merchant fault
+T105050,never shipped,buyer fault
+T082676,never shipped,merchant fault
+T020035,never shipped,merchant fault
+T075893,never shipped,Affirm fault
+T101962,not received,buyer fault
+T102089,never shipped,merchant fault
+T027796,not as described,merchant fault
+T033393,never shipped,buyer fault
+T113041,not as described,Affirm fault
+T065717,not received,Affirm fault
+T105901,not as described,Affirm fault
+T029636,not received,merchant fault
+T008828,never shipped,merchant fault
+T053927,not received,merchant fault
+T015356,never shipped,Affirm fault
+T018887,not received,buyer fault
+T043933,not as described,Affirm fault
+T078452,not received,buyer fault
+T113778,never shipped,buyer fault
+T008536,not as described,Affirm fault
+T032373,not received,buyer fault
+T040244,not as described,Affirm fault
+T115083,not received,buyer fault
+T067743,never shipped,Affirm fault
+T061677,never shipped,buyer fault
+T028809,never shipped,buyer fault
+T101160,not as described,buyer fault
+T008620,never shipped,buyer fault
+T068298,not received,merchant fault
+T025872,not as described,merchant fault
+T114629,not received,merchant fault
+T064832,never shipped,merchant fault
+T114014,never shipped,Affirm fault
+T096301,never shipped,Affirm fault
+T081870,not as described,Affirm fault
+T074729,not as described,merchant fault
+T044832,not as described,merchant fault
+T062140,not as described,Affirm fault
+T027954,never shipped,buyer fault
+T095549,not as described,buyer fault
+T044092,not as described,Affirm fault
+T076067,never shipped,Affirm fault
+T063285,never shipped,Affirm fault
+T043844,never shipped,merchant fault
+T104575,not as described,buyer fault
+T085049,not as described,buyer fault
+T074822,not as described,merchant fault
+T009342,not received,Affirm fault
+T100254,never shipped,buyer fault
+T053841,never shipped,merchant fault
+T027594,not received,merchant fault
+T014247,never shipped,merchant fault
+T109629,not received,merchant fault
+T027457,never shipped,buyer fault
+T038512,not received,buyer fault
+T001523,not received,merchant fault
+T065097,not received,merchant fault
+T006109,never shipped,Affirm fault
+T097163,not as described,buyer fault
+T018608,not as described,buyer fault
+T113210,never shipped,buyer fault
+T096476,not received,buyer fault
+T019210,not received,Affirm fault
+T038473,not received,buyer fault
+T010677,not as described,buyer fault
+T002688,not received,buyer fault
+T001156,never shipped,merchant fault
+T018940,not received,Affirm fault
+T040138,not received,merchant fault
+T076093,not as described,Affirm fault
+T071950,never shipped,buyer fault
+T088774,not received,Affirm fault
+T082117,not as described,Affirm fault
+T046495,never shipped,buyer fault
+T060382,never shipped,Affirm fault
+T039598,never shipped,merchant fault
+T032757,never shipped,Affirm fault
+T041364,never shipped,merchant fault
+T041648,never shipped,Affirm fault
+T047823,not as described,merchant fault
+T076266,not as described,merchant fault
+T012081,not received,merchant fault
+T091218,not as described,merchant fault
+T001026,not as described,Affirm fault
+T096709,never shipped,buyer fault
+T108819,never shipped,buyer fault
+T045122,not as described,Affirm fault
+T024785,not received,Affirm fault
+T001593,not received,merchant fault
+T111366,never shipped,buyer fault
+T056107,not received,merchant fault
+T103953,not as described,merchant fault
+T027131,never shipped,Affirm fault
+T010818,not received,merchant fault
+T014533,never shipped,merchant fault
+T043771,never shipped,Affirm fault
+T016504,never shipped,merchant fault
+T113252,never shipped,buyer fault
+T109042,not as described,Affirm fault
+T062869,not received,buyer fault
+T085720,not received,merchant fault
+T033287,not as described,buyer fault
+T038269,never shipped,merchant fault
+T046245,not as described,buyer fault
+T044998,not received,buyer fault
+T007824,not as described,Affirm fault
+T069338,never shipped,buyer fault
+T090686,not received,buyer fault
+T019859,not as described,Affirm fault
+T041594,never shipped,merchant fault
+T086111,not as described,Affirm fault
+T105393,not as described,merchant fault
+T013659,not received,buyer fault
+T079094,not received,buyer fault
+T093701,not received,Affirm fault
+T115320,not as described,merchant fault
+T095548,never shipped,Affirm fault
+T035156,not received,merchant fault
+T005961,never shipped,buyer fault
+T097386,not as described,Affirm fault
+T058287,never shipped,buyer fault
+T068007,not as described,Affirm fault
+T108848,never shipped,Affirm fault
+T085131,not received,buyer fault
+T033608,not as described,buyer fault
+T015655,not as described,buyer fault
+T090557,never shipped,buyer fault
+T111988,never shipped,buyer fault
+T028054,never shipped,buyer fault
+T106623,never shipped,merchant fault
+T000128,never shipped,Affirm fault
+T047307,never shipped,Affirm fault
+T093643,not as described,merchant fault
+T045706,not received,Affirm fault
+T034977,not received,Affirm fault
+T014461,not as described,Affirm fault
+T063503,not as described,Affirm fault
+T015138,never shipped,buyer fault
+T008406,never shipped,merchant fault
+T088643,never shipped,merchant fault
+T006658,not as described,Affirm fault
+T100133,never shipped,merchant fault
+T000652,never shipped,merchant fault
+T010549,never shipped,buyer fault
+T080189,never shipped,merchant fault
+T026128,not as described,Affirm fault
+T100825,never shipped,Affirm fault
+T019419,not as described,merchant fault
+T112275,not received,merchant fault
+T008519,not received,buyer fault
+T097167,not received,merchant fault
+T076566,not received,buyer fault
+T100593,not as described,buyer fault
+T007647,not received,buyer fault
+T044021,not received,Affirm fault
+T010679,never shipped,Affirm fault
+T102739,not as described,merchant fault
+T020256,never shipped,Affirm fault
+T018787,not received,buyer fault
+T012424,never shipped,buyer fault
+T053588,not as described,merchant fault
+T080474,never shipped,buyer fault
+T115500,not received,buyer fault
+T086515,not as described,merchant fault
+T018784,never shipped,merchant fault
+T032728,not as described,buyer fault
+T099395,not as described,buyer fault
+T008530,not received,merchant fault
+T039046,never shipped,Affirm fault
+T046969,not received,merchant fault
+T106715,not as described,merchant fault
+T003288,never shipped,merchant fault
+T062989,not as described,Affirm fault
+T056908,never shipped,merchant fault
+T064303,not received,Affirm fault
+T110675,not received,Affirm fault
+T053217,not as described,merchant fault
+T058107,never shipped,Affirm fault
+T072058,never shipped,buyer fault
+T062816,not received,buyer fault
+T082363,not as described,Affirm fault
+T113052,not as described,merchant fault
+T069116,never shipped,Affirm fault
+T087177,not received,Affirm fault
+T099505,not as described,merchant fault
+T005549,not as described,buyer fault
+T111268,never shipped,buyer fault
+T033518,never shipped,buyer fault
+T057132,not received,buyer fault
+T062330,never shipped,buyer fault
+T023370,not received,buyer fault
+T005720,not as described,merchant fault
+T018117,not as described,buyer fault
+T106877,not received,Affirm fault
+T055589,never shipped,buyer fault
+T094749,not as described,buyer fault
+T067768,not received,merchant fault
+T015975,not received,merchant fault
+T077315,not as described,merchant fault
+T062903,never shipped,buyer fault
+T110710,not as described,merchant fault
+T005327,not received,merchant fault
+T085022,not received,Affirm fault
+T011335,not received,Affirm fault
+T106350,never shipped,Affirm fault
+T045289,not as described,buyer fault
+T064196,never shipped,Affirm fault
+T009170,not received,merchant fault
+T020668,not as described,merchant fault
+T001816,not received,merchant fault
+T073188,not received,Affirm fault
+T096133,not received,buyer fault
+T069835,never shipped,Affirm fault
+T007138,not received,Affirm fault
+T104846,not received,buyer fault
+T108116,never shipped,buyer fault
+T019431,never shipped,buyer fault
+T040579,never shipped,Affirm fault
+T051293,not received,Affirm fault
+T088427,never shipped,merchant fault
+T071372,never shipped,merchant fault
+T072092,not received,Affirm fault
+T075181,not received,Affirm fault
+T057213,not as described,buyer fault
+T110146,not as described,Affirm fault
+T042167,not as described,buyer fault
+T098784,never shipped,buyer fault
+T107845,not as described,merchant fault
+T088353,not received,merchant fault
+T114089,not received,merchant fault
+T002324,not as described,buyer fault
+T098555,not received,Affirm fault
+T033392,not as described,buyer fault
+T087275,never shipped,buyer fault
+T109794,never shipped,buyer fault
+T098285,not received,merchant fault
+T028641,not received,Affirm fault
+T011559,not as described,merchant fault
+T076054,never shipped,merchant fault
+T042182,never shipped,merchant fault
+T063936,not received,merchant fault
+T030622,never shipped,merchant fault
+T021283,not as described,Affirm fault
+T061459,never shipped,buyer fault
+T068062,not received,buyer fault
+T079550,not received,merchant fault
+T110736,never shipped,buyer fault
+T025960,never shipped,Affirm fault
+T094652,never shipped,Affirm fault
+T111906,not received,merchant fault
+T102811,not as described,Affirm fault
+T005773,not received,buyer fault
+T068860,never shipped,buyer fault
+T096111,not received,buyer fault
+T020303,never shipped,Affirm fault
+T082083,not received,merchant fault
+T073580,not received,Affirm fault
+T032645,not received,merchant fault
+T060990,not received,Affirm fault
+T045880,never shipped,merchant fault
+T056812,not as described,Affirm fault
+T055495,not as described,Affirm fault
+T001117,never shipped,buyer fault
+T054751,not as described,merchant fault
+T055930,not received,merchant fault
+T110115,not as described,buyer fault
+T081225,not received,buyer fault
+T093843,never shipped,Affirm fault
+T000857,not as described,buyer fault
+T015312,not as described,buyer fault
+T060859,not as described,buyer fault
+T096160,never shipped,Affirm fault
+T105159,never shipped,Affirm fault
+T035819,never shipped,buyer fault
+T092427,not as described,buyer fault
+T092394,not as described,Affirm fault
+T024630,never shipped,buyer fault
+T062561,never shipped,merchant fault
+T079887,not received,merchant fault
+T103016,not received,buyer fault
+T035236,never shipped,Affirm fault
+T011472,never shipped,buyer fault
+T114183,never shipped,merchant fault
+T013480,never shipped,Affirm fault
+T096442,not as described,Affirm fault
+T013275,not as described,merchant fault
+T026121,not as described,merchant fault
+T079498,not received,Affirm fault
+T022732,never shipped,Affirm fault
+T084486,not as described,merchant fault
+T082148,not received,Affirm fault
+T048775,not received,merchant fault
+T056901,not received,buyer fault
+T110057,not as described,merchant fault
+T022804,never shipped,buyer fault
+T079726,not received,Affirm fault
+T061592,not as described,buyer fault
+T114987,not received,Affirm fault
+T025360,not received,merchant fault
+T102140,not received,merchant fault
+T058427,not as described,buyer fault
+T085724,not received,buyer fault
+T054563,never shipped,merchant fault
+T088646,not as described,Affirm fault
+T040445,never shipped,buyer fault
+T016784,not received,Affirm fault
+T014903,never shipped,buyer fault
+T049897,not received,buyer fault
+T078121,not as described,merchant fault
+T099623,not received,merchant fault
+T093562,never shipped,buyer fault
+T068452,not as described,merchant fault
+T002376,not as described,buyer fault
+T042283,never shipped,buyer fault
+T026678,never shipped,buyer fault
+T009435,never shipped,merchant fault
+T112316,never shipped,buyer fault
+T107139,not as described,merchant fault
+T003242,never shipped,merchant fault
+T105139,never shipped,buyer fault
+T059509,not as described,buyer fault
+T072851,never shipped,merchant fault
+T005331,never shipped,merchant fault
+T040784,not received,Affirm fault
+T033590,not received,merchant fault
+T018238,not as described,merchant fault
+T030822,not as described,merchant fault
+T032386,never shipped,buyer fault
+T057520,not received,Affirm fault
+T017290,not as described,buyer fault
+T089688,never shipped,buyer fault
+T002745,never shipped,buyer fault
+T039682,never shipped,merchant fault
+T021589,not received,Affirm fault
+T106653,not received,buyer fault
+T095654,not as described,merchant fault
+T031745,not as described,Affirm fault
+T061584,not as described,buyer fault
+T104103,not received,buyer fault
+T001645,not as described,buyer fault
+T040236,never shipped,buyer fault
+T021354,not received,merchant fault
+T093659,not as described,merchant fault
+T067669,not as described,Affirm fault
+T015823,never shipped,buyer fault
+T075608,not as described,buyer fault
+T019142,not as described,merchant fault
+T020604,not as described,Affirm fault
+T076114,not as described,Affirm fault
+T040920,not received,Affirm fault
+T057352,not as described,buyer fault
+T067060,not as described,merchant fault
+T003916,never shipped,Affirm fault
+T098390,not as described,merchant fault
+T110130,never shipped,merchant fault
+T099991,never shipped,buyer fault
+T025221,not as described,Affirm fault
+T084571,not received,merchant fault
+T046156,never shipped,buyer fault
+T058914,not received,Affirm fault
+T053492,never shipped,Affirm fault
+T066790,not as described,merchant fault
+T017877,not received,merchant fault
+T056298,not as described,merchant fault
+T051536,not received,Affirm fault
+T050837,not received,merchant fault
+T002742,not as described,Affirm fault
+T086965,not received,Affirm fault
+T025663,not as described,buyer fault
+T041282,never shipped,buyer fault
+T088548,not received,merchant fault
+T004233,not received,Affirm fault
+T075981,not as described,Affirm fault
+T044084,not as described,merchant fault
+T038885,not as described,merchant fault
+T106558,not received,buyer fault
+T033439,never shipped,Affirm fault
+T105352,never shipped,merchant fault
+T062010,not as described,Affirm fault
+T040691,never shipped,buyer fault
+T040891,not as described,merchant fault
+T017902,never shipped,buyer fault
+T075494,not received,buyer fault
+T006212,not as described,buyer fault
+T040284,not as described,Affirm fault
+T007844,not as described,buyer fault
+T081231,never shipped,merchant fault
+T071163,not as described,buyer fault
+T104341,not as described,buyer fault
+T023194,not as described,merchant fault
+T095817,never shipped,Affirm fault
+T062172,never shipped,merchant fault
+T043034,not as described,Affirm fault
+T017860,not received,Affirm fault
+T093348,not received,buyer fault
+T092259,not as described,buyer fault
+T073019,not as described,merchant fault
+T082729,not as described,buyer fault
+T006392,not received,Affirm fault
+T056275,never shipped,merchant fault
+T006412,never shipped,buyer fault
+T092241,not received,Affirm fault
+T014347,never shipped,buyer fault
+T016422,never shipped,merchant fault
+T034272,never shipped,buyer fault
+T096269,not received,buyer fault
+T115668,not received,Affirm fault
+T075774,not as described,merchant fault
+T074410,never shipped,buyer fault
+T031921,never shipped,merchant fault
+T094205,never shipped,buyer fault
+T093704,never shipped,merchant fault
+T088172,not received,Affirm fault
+T036606,not as described,buyer fault
+T099160,not received,Affirm fault
+T043343,never shipped,buyer fault
+T089721,not received,buyer fault
+T113566,never shipped,merchant fault
+T042959,never shipped,buyer fault
+T037087,not as described,Affirm fault
+T063680,never shipped,buyer fault
+T012805,not as described,Affirm fault
+T053266,never shipped,buyer fault
+T025325,not received,buyer fault
+T102415,never shipped,buyer fault
+T076415,never shipped,merchant fault
+T048982,not as described,merchant fault
+T059650,not as described,Affirm fault
+T003661,not received,merchant fault
+T067717,not received,buyer fault
+T093033,not received,buyer fault
+T078619,never shipped,buyer fault
+T040266,never shipped,buyer fault
+T054793,not received,merchant fault
+T100845,not received,Affirm fault
+T074996,not as described,Affirm fault
+T046860,never shipped,merchant fault
+T041858,not received,Affirm fault
+T015114,not as described,merchant fault
+T090423,never shipped,buyer fault
+T042446,not as described,merchant fault
+T038643,not as described,merchant fault
+T009559,not as described,buyer fault
+T041503,not received,buyer fault
+T072422,never shipped,buyer fault
+T033213,never shipped,Affirm fault
+T091927,never shipped,merchant fault
+T106807,not as described,Affirm fault
+T092668,never shipped,merchant fault
+T085726,not received,merchant fault
+T075281,never shipped,buyer fault
+T084719,not received,Affirm fault
+T081333,not received,Affirm fault
+T030924,never shipped,Affirm fault
+T071126,never shipped,buyer fault
+T062482,not as described,merchant fault
+T056861,never shipped,buyer fault
+T044173,not as described,buyer fault
+T055627,not as described,merchant fault
+T084506,not received,merchant fault
+T104656,not as described,Affirm fault
+T006076,never shipped,buyer fault
+T089130,never shipped,merchant fault
+T061232,not received,buyer fault
+T097344,not as described,buyer fault
+T096865,not received,Affirm fault
+T097765,not as described,Affirm fault
+T059281,not as described,Affirm fault
+T109993,not received,buyer fault
+T041692,not received,Affirm fault
+T110271,never shipped,buyer fault
+T060037,not as described,buyer fault
+T059504,never shipped,Affirm fault
+T054217,not as described,Affirm fault
+T093328,not as described,buyer fault
+T027584,not received,buyer fault
+T075007,never shipped,Affirm fault
+T060791,never shipped,merchant fault
+T089031,not received,Affirm fault
+T091178,not as described,Affirm fault
+T090833,not received,buyer fault
+T102322,never shipped,buyer fault
+T079591,not as described,buyer fault
+T010629,not received,buyer fault
+T072648,not received,merchant fault
+T087307,not received,buyer fault
+T024469,not received,Affirm fault
+T110501,not received,Affirm fault
+T014010,not as described,buyer fault
+T105985,not received,buyer fault
+T017251,not as described,Affirm fault
+T014344,not as described,merchant fault
+T039145,not received,buyer fault
+T056140,not as described,buyer fault
+T085651,not as described,merchant fault
+T075895,never shipped,merchant fault
+T079731,never shipped,buyer fault
+T065285,not as described,Affirm fault
+T018727,not as described,merchant fault
+T103390,not received,Affirm fault
+T082879,never shipped,merchant fault
+T089501,not as described,buyer fault
+T050434,not received,Affirm fault
+T088905,not received,merchant fault
+T055766,not as described,buyer fault
+T075489,never shipped,Affirm fault
+T019621,not received,buyer fault
+T021390,not received,merchant fault
+T101874,not as described,Affirm fault
+T062732,not received,merchant fault
+T067000,not as described,buyer fault
+T028304,not as described,merchant fault
+T051624,not received,merchant fault
+T011834,never shipped,merchant fault
+T009554,not as described,buyer fault
+T075145,not as described,buyer fault
+T030896,not as described,buyer fault
+T101561,not as described,merchant fault
+T013552,never shipped,merchant fault
+T061372,not as described,Affirm fault
+T096094,not received,Affirm fault
+T074847,not as described,Affirm fault
+T054228,never shipped,merchant fault
+T001939,never shipped,merchant fault
+T032846,not as described,merchant fault
+T067321,not received,buyer fault
+T101707,not received,Affirm fault
+T035811,not as described,buyer fault
+T067623,never shipped,Affirm fault
+T069028,never shipped,merchant fault
+T059246,not as described,buyer fault
+T002038,never shipped,merchant fault
+T106956,not received,Affirm fault
+T047965,not as described,Affirm fault
+T037008,not as described,buyer fault
+T096319,not as described,buyer fault
+T074984,never shipped,Affirm fault
+T110882,not received,buyer fault
+T055459,not as described,Affirm fault
+T044527,not received,Affirm fault
+T084138,not as described,merchant fault
+T051836,never shipped,Affirm fault
+T025611,not as described,buyer fault
+T071929,never shipped,merchant fault
+T077623,not as described,Affirm fault
+T080255,not as described,merchant fault
+T096252,not as described,merchant fault
+T097057,not received,merchant fault
+T086161,never shipped,merchant fault
+T108395,never shipped,Affirm fault
+T028560,not received,buyer fault
+T084166,not received,Affirm fault
+T037033,not as described,buyer fault
+T074654,never shipped,buyer fault
+T040733,not as described,Affirm fault
+T027546,never shipped,buyer fault
+T035088,not received,merchant fault
+T100696,not as described,merchant fault
+T062319,never shipped,merchant fault
+T016399,not received,Affirm fault
+T028730,never shipped,merchant fault
+T086337,not received,Affirm fault
+T055474,not as described,Affirm fault
+T104237,not as described,merchant fault
+T038844,not received,buyer fault
+T112281,not received,merchant fault
+T064718,not as described,buyer fault
+T023718,not as described,buyer fault
+T000887,never shipped,merchant fault
+T002232,never shipped,merchant fault
+T082582,never shipped,merchant fault
+T095067,not received,Affirm fault
+T106063,not as described,Affirm fault
+T097258,not received,buyer fault
+T091410,not received,buyer fault
+T075071,never shipped,merchant fault
+T049451,not received,merchant fault
+T015451,not received,buyer fault
+T025780,not as described,buyer fault
+T019578,not received,buyer fault
+T033032,never shipped,buyer fault
+T073596,not as described,Affirm fault
+T015284,never shipped,buyer fault
+T084116,never shipped,merchant fault
+T092830,not received,merchant fault
+T111569,not received,buyer fault
+T008230,never shipped,buyer fault
+T022896,not received,buyer fault
+T022836,not as described,merchant fault
+T060904,never shipped,buyer fault
+T058747,not as described,buyer fault
+T053487,not received,Affirm fault
+T113427,not received,merchant fault
+T009987,not received,buyer fault
+T060848,never shipped,Affirm fault
+T040962,not received,merchant fault
+T070814,not received,Affirm fault
+T027924,not as described,Affirm fault
+T038537,not received,merchant fault
+T024129,not as described,Affirm fault
+T017525,not received,merchant fault
+T095871,never shipped,buyer fault
+T061180,never shipped,buyer fault
+T031197,not as described,buyer fault
+T004010,never shipped,Affirm fault
+T073406,never shipped,Affirm fault
+T044993,never shipped,Affirm fault
+T006145,not received,merchant fault
+T064091,not as described,Affirm fault
+T110635,not received,merchant fault
+T044462,never shipped,Affirm fault
+T012188,not received,merchant fault
+T021718,not as described,buyer fault
+T010667,never shipped,buyer fault
+T021517,not as described,Affirm fault
+T024456,not as described,buyer fault
+T107939,never shipped,Affirm fault
+T031330,not as described,Affirm fault
+T009637,not received,Affirm fault
+T097633,not as described,merchant fault
+T075961,not received,merchant fault
+T073858,never shipped,buyer fault
+T031005,not as described,Affirm fault
+T072129,not as described,buyer fault
+T013536,not as described,merchant fault
+T039181,not as described,Affirm fault
+T047262,never shipped,buyer fault
+T100852,not received,merchant fault
+T066079,not received,buyer fault
+T015867,not received,buyer fault
+T069423,not as described,merchant fault
+T004273,not received,Affirm fault
+T058203,not as described,Affirm fault
+T001642,not received,merchant fault
+T042335,not received,buyer fault
+T087626,not received,buyer fault
+T019425,never shipped,buyer fault
+T093585,never shipped,Affirm fault
+T044360,never shipped,buyer fault
+T095397,not as described,Affirm fault
+T014778,not received,merchant fault
+T059394,not as described,Affirm fault
+T054574,not as described,Affirm fault
+T070646,never shipped,Affirm fault
+T109934,never shipped,merchant fault
+T053937,never shipped,Affirm fault
+T076181,not received,Affirm fault
+T024115,never shipped,merchant fault
+T012346,not as described,merchant fault
+T041891,not as described,merchant fault
+T031691,not received,buyer fault
+T058342,not as described,buyer fault
+T005596,not received,merchant fault
+T083143,not as described,merchant fault
+T082989,not as described,merchant fault
+T092856,not received,merchant fault
+T033309,not as described,merchant fault
+T027071,not as described,buyer fault
+T080465,not received,Affirm fault
+T099837,never shipped,Affirm fault
+T115069,not received,merchant fault
+T014999,never shipped,buyer fault
+T107213,not received,merchant fault
+T044215,never shipped,Affirm fault
+T048547,never shipped,Affirm fault
+T107691,not received,buyer fault
+T008761,not received,buyer fault
+T079076,not as described,buyer fault
+T106166,not received,merchant fault
+T039751,not as described,Affirm fault
+T082576,not received,buyer fault
+T092793,not as described,merchant fault
+T108333,never shipped,merchant fault
+T086049,not as described,Affirm fault
+T023030,not received,Affirm fault
+T044385,not received,merchant fault
+T068279,not as described,merchant fault
+T048616,not as described,merchant fault
+T038741,never shipped,Affirm fault
+T026786,not received,buyer fault
+T044971,not received,buyer fault
+T080531,not as described,merchant fault
+T050381,not as described,buyer fault
+T084994,not as described,merchant fault
+T019768,never shipped,merchant fault
+T081179,not as described,merchant fault
+T063507,not received,buyer fault
+T074209,never shipped,buyer fault
+T063053,not received,buyer fault
+T084530,not as described,merchant fault
+T106904,not as described,buyer fault
+T086602,not as described,buyer fault
+T090538,not as described,buyer fault
+T008876,not received,merchant fault
+T114295,never shipped,buyer fault
+T004051,not as described,merchant fault
+T021422,never shipped,merchant fault
+T013054,not received,Affirm fault
+T089027,not as described,merchant fault
+T000950,not as described,buyer fault
+T042765,not as described,merchant fault
+T090750,not as described,Affirm fault
+T062615,never shipped,merchant fault
+T073061,never shipped,buyer fault
+T075268,not received,merchant fault
+T088299,never shipped,buyer fault
+T103644,not as described,Affirm fault
+T094601,not received,buyer fault
+T062260,not received,merchant fault
+T098208,not as described,merchant fault
+T051153,not as described,merchant fault
+T007548,not received,Affirm fault
+T111601,not as described,buyer fault
+T073878,not as described,buyer fault
+T045775,not received,Affirm fault
+T107367,not as described,buyer fault
+T071776,never shipped,Affirm fault
+T094002,not received,buyer fault
+T034419,never shipped,Affirm fault
+T064710,not as described,buyer fault
+T052575,not as described,merchant fault
+T092584,not received,Affirm fault
+T027184,not received,merchant fault
+T002041,not as described,Affirm fault
+T006185,not received,merchant fault
+T036662,not as described,merchant fault
+T081357,not as described,buyer fault
+T080132,not as described,Affirm fault
+T094995,not as described,buyer fault
+T071966,not as described,merchant fault
+T036434,not as described,merchant fault
+T077779,never shipped,Affirm fault
+T110428,not as described,merchant fault
+T052110,never shipped,Affirm fault
+T105504,not received,Affirm fault
+T044044,never shipped,merchant fault
+T013315,not as described,Affirm fault
+T093586,not as described,Affirm fault
+T015514,never shipped,Affirm fault
+T102503,not as described,buyer fault
+T092567,never shipped,Affirm fault
+T003557,not received,Affirm fault
+T081858,never shipped,buyer fault
+T044925,not received,merchant fault
+T099012,not received,Affirm fault
+T108630,not received,merchant fault
+T041170,never shipped,Affirm fault
+T046642,not as described,buyer fault
+T043120,never shipped,merchant fault
+T109058,not as described,buyer fault
+T092057,never shipped,buyer fault
+T034274,not as described,Affirm fault
+T014582,not as described,Affirm fault
+T091928,never shipped,Affirm fault
+T081348,not received,merchant fault
+T015395,never shipped,merchant fault
+T105924,never shipped,buyer fault
+T104342,not received,Affirm fault
+T042063,never shipped,Affirm fault
+T041268,not received,merchant fault
+T008552,not received,Affirm fault
+T023047,never shipped,Affirm fault
+T081627,never shipped,buyer fault
+T024767,not received,Affirm fault
+T003183,not as described,buyer fault
+T000363,not as described,buyer fault
+T045926,not as described,Affirm fault
+T004422,not as described,Affirm fault
+T015531,not as described,Affirm fault
+T056169,not received,Affirm fault
+T027472,never shipped,Affirm fault
+T110656,not as described,buyer fault
+T109273,never shipped,buyer fault
+T110587,not received,merchant fault
+T041294,never shipped,buyer fault
+T029937,never shipped,Affirm fault
+T093596,not received,buyer fault
+T085205,never shipped,merchant fault
+T057935,not received,Affirm fault
+T065810,not as described,buyer fault
+T016223,not received,buyer fault
+T109069,never shipped,merchant fault
+T028343,not as described,Affirm fault
+T025456,not as described,buyer fault
+T083220,never shipped,merchant fault
+T107831,not as described,merchant fault
+T025986,not as described,buyer fault
+T101384,not received,buyer fault
+T077423,not as described,buyer fault
+T048388,never shipped,Affirm fault
+T114141,never shipped,merchant fault
+T111987,not received,merchant fault
+T024676,not as described,buyer fault
+T006453,not as described,Affirm fault
+T067586,never shipped,Affirm fault
+T057247,never shipped,merchant fault
+T094665,not as described,merchant fault
+T019519,not as described,buyer fault
+T110494,never shipped,merchant fault
+T023797,never shipped,buyer fault
+T052909,not as described,buyer fault
+T029862,not received,Affirm fault
+T028839,not received,buyer fault
+T103841,not received,Affirm fault
+T043127,never shipped,merchant fault
+T099333,not received,buyer fault
+T047400,not as described,merchant fault
+T041352,never shipped,buyer fault
+T107166,never shipped,merchant fault
+T072663,not received,Affirm fault
+T065338,not received,buyer fault
+T009925,never shipped,buyer fault
+T015644,not as described,Affirm fault
+T103040,not as described,merchant fault
+T004314,never shipped,buyer fault
+T034215,not received,merchant fault
+T031180,never shipped,buyer fault
+T021702,never shipped,buyer fault
+T061207,never shipped,merchant fault
+T003031,not received,merchant fault
+T035577,never shipped,buyer fault
+T005174,not as described,buyer fault
+T023281,not received,buyer fault
+T075560,not as described,merchant fault
+T053612,never shipped,merchant fault
+T084981,not received,buyer fault
+T052627,never shipped,buyer fault
+T099387,not received,merchant fault
+T099646,never shipped,merchant fault
+T111564,never shipped,buyer fault
+T044669,never shipped,merchant fault
+T029562,never shipped,Affirm fault
+T018510,not received,merchant fault
+T013591,never shipped,Affirm fault
+T065274,not received,buyer fault
+T103676,not received,Affirm fault
+T080872,not as described,Affirm fault
+T008683,not received,Affirm fault
+T074133,not as described,Affirm fault
+T008914,not as described,buyer fault
+T034051,never shipped,merchant fault
+T047812,not as described,buyer fault
+T090252,not as described,merchant fault
+T094823,not as described,merchant fault
+T047195,not received,buyer fault
+T002144,not received,merchant fault
+T112587,not received,merchant fault
+T042591,not as described,merchant fault
+T108028,not as described,Affirm fault
+T065063,never shipped,buyer fault
+T088163,not as described,Affirm fault
+T073799,not as described,Affirm fault
+T076213,not received,Affirm fault
+T073508,not as described,buyer fault
+T000805,not as described,Affirm fault
+T023112,not as described,buyer fault
+T105710,never shipped,Affirm fault
+T100789,never shipped,merchant fault
+T068582,never shipped,buyer fault
+T112701,never shipped,buyer fault
+T111190,not as described,merchant fault
+T069198,never shipped,buyer fault
+T049859,never shipped,Affirm fault
+T009468,not received,buyer fault
+T089546,not received,buyer fault
+T054598,not received,Affirm fault
+T084250,not as described,merchant fault
+T087997,never shipped,merchant fault
+T065869,not as described,merchant fault
+T098034,not received,merchant fault
+T019528,not as described,buyer fault
+T066966,not received,merchant fault
+T038331,not received,buyer fault
+T003956,not received,buyer fault
+T073011,never shipped,merchant fault
+T062408,never shipped,buyer fault
+T080024,not received,buyer fault
+T040422,not received,Affirm fault
+T052919,never shipped,merchant fault
+T104571,never shipped,buyer fault
+T112193,not as described,merchant fault
+T067266,never shipped,buyer fault
+T114003,never shipped,merchant fault
+T034752,never shipped,Affirm fault
+T045050,never shipped,merchant fault
+T041486,not received,buyer fault
+T041439,never shipped,merchant fault
+T051730,not as described,merchant fault
+T024522,never shipped,buyer fault
+T112401,never shipped,merchant fault
+T034910,not as described,merchant fault
+T002272,never shipped,Affirm fault
+T096575,never shipped,Affirm fault
+T074836,not as described,Affirm fault
+T043077,never shipped,Affirm fault
+T110400,never shipped,buyer fault
+T030079,not as described,buyer fault
+T029548,not received,Affirm fault
+T113429,never shipped,Affirm fault
+T064593,not as described,merchant fault
+T030163,not as described,merchant fault
+T028863,not as described,Affirm fault
+T020658,not received,Affirm fault
+T078366,not as described,merchant fault
+T092085,not as described,Affirm fault
+T066073,not as described,buyer fault
+T022472,not received,buyer fault
+T045842,not as described,buyer fault
+T106548,not as described,Affirm fault
+T024211,not received,buyer fault
+T081899,not received,buyer fault
+T082948,not as described,buyer fault
+T008823,not as described,buyer fault
+T092246,not as described,buyer fault
+T032068,never shipped,merchant fault
+T001821,not received,buyer fault
+T062382,never shipped,merchant fault
+T055540,not as described,buyer fault
+T076063,not received,Affirm fault
+T041208,not received,merchant fault
+T085066,not received,merchant fault
+T010215,never shipped,Affirm fault
+T031809,not received,merchant fault
+T052295,never shipped,merchant fault
+T050438,not as described,buyer fault
+T105777,not received,merchant fault
+T077239,not as described,Affirm fault
+T102344,never shipped,merchant fault
+T055993,not as described,buyer fault
+T083350,never shipped,buyer fault
+T093399,not as described,Affirm fault
+T073361,not as described,merchant fault
+T019275,not received,buyer fault
+T074207,not as described,Affirm fault
+T006749,not as described,merchant fault
+T041602,never shipped,Affirm fault
+T070080,never shipped,Affirm fault
+T077684,never shipped,Affirm fault
+T025981,not received,Affirm fault
+T087493,never shipped,buyer fault
+T019285,not as described,buyer fault
+T092816,not received,buyer fault
+T049751,never shipped,merchant fault
+T091228,not received,merchant fault
+T010426,not as described,buyer fault
+T095772,never shipped,merchant fault
+T011015,not as described,buyer fault
+T065543,not received,merchant fault
+T013958,never shipped,buyer fault
+T047210,never shipped,Affirm fault
+T112624,never shipped,Affirm fault
+T075599,not as described,buyer fault
+T050056,not received,buyer fault
+T063761,never shipped,buyer fault
+T016350,never shipped,buyer fault
+T072569,not received,merchant fault
+T035638,never shipped,merchant fault
+T062598,not received,buyer fault
+T086463,not as described,buyer fault
+T098180,not as described,buyer fault
+T083051,not as described,Affirm fault
+T013665,not as described,buyer fault
+T047721,never shipped,buyer fault
+T048300,never shipped,merchant fault
+T079491,not as described,buyer fault
+T016444,not received,merchant fault
+T066830,not as described,Affirm fault
+T022951,never shipped,buyer fault
+T099670,not as described,merchant fault
+T104406,never shipped,merchant fault
+T098709,never shipped,merchant fault
+T022197,never shipped,buyer fault
+T025422,not received,merchant fault
+T027978,not as described,buyer fault
+T057324,not as described,buyer fault
+T017069,not as described,merchant fault
+T033495,never shipped,merchant fault
+T056586,never shipped,Affirm fault
+T096534,not received,merchant fault
+T072826,not received,Affirm fault
+T042022,not received,buyer fault
+T075370,not received,buyer fault
+T056483,never shipped,merchant fault
+T040599,never shipped,Affirm fault
+T006419,never shipped,buyer fault
+T063526,not received,merchant fault
+T107059,never shipped,merchant fault
+T011864,never shipped,merchant fault
+T018686,not as described,Affirm fault
+T073754,never shipped,buyer fault
+T027001,never shipped,buyer fault
+T077809,never shipped,Affirm fault
+T026744,not as described,buyer fault
+T101128,not as described,merchant fault
+T096421,not received,merchant fault
+T016306,not received,buyer fault
+T013213,not received,buyer fault
+T005880,not as described,Affirm fault
+T094140,not as described,merchant fault
+T062826,not as described,merchant fault
+T106754,never shipped,buyer fault
+T091524,not as described,merchant fault
+T097972,not as described,merchant fault
+T043769,not received,Affirm fault
+T029775,not as described,buyer fault
+T076584,never shipped,Affirm fault
+T021971,never shipped,buyer fault
+T091675,never shipped,merchant fault
+T113520,not received,Affirm fault
+T032856,not as described,Affirm fault
+T002449,not as described,Affirm fault
+T068272,not received,Affirm fault
+T105242,not received,Affirm fault
+T064867,never shipped,Affirm fault
+T008601,never shipped,buyer fault
+T037185,not received,Affirm fault
+T016667,never shipped,merchant fault
+T071803,not as described,merchant fault
+T036122,not received,merchant fault
+T039669,not as described,buyer fault
+T011407,not received,buyer fault
+T091941,never shipped,merchant fault
+T001865,not received,Affirm fault
+T029945,not received,Affirm fault
+T115108,never shipped,Affirm fault
+T076544,not as described,Affirm fault
+T085560,never shipped,Affirm fault
+T068425,never shipped,merchant fault
+T004023,not as described,merchant fault
+T003843,not received,Affirm fault
+T026382,not received,Affirm fault
+T018360,not received,buyer fault
+T030923,not received,buyer fault
+T036874,not received,merchant fault
+T090978,not received,buyer fault
+T072465,not as described,merchant fault
+T053100,not as described,merchant fault
+T107300,not as described,buyer fault
+T073842,not received,merchant fault
+T098782,never shipped,buyer fault
+T005749,not as described,buyer fault
+T087854,not received,Affirm fault
+T053760,never shipped,merchant fault
+T100284,not as described,Affirm fault
+T084650,not as described,Affirm fault
+T081887,never shipped,Affirm fault
+T001541,never shipped,merchant fault
+T048655,not as described,merchant fault
+T025400,not as described,merchant fault
+T104832,never shipped,merchant fault
+T082795,not as described,buyer fault
+T053680,never shipped,buyer fault
+T007202,not received,buyer fault
+T035094,not as described,merchant fault
+T016101,never shipped,Affirm fault
+T039090,not as described,buyer fault
+T063994,not received,Affirm fault
+T084618,not as described,merchant fault
+T006291,not received,buyer fault
+T017861,not received,Affirm fault
+T017338,not received,merchant fault
+T069105,not as described,merchant fault
+T068422,never shipped,Affirm fault
+T115929,not received,merchant fault
+T003055,never shipped,merchant fault
+T023717,never shipped,buyer fault
+T016564,not as described,Affirm fault
+T000129,not received,merchant fault
+T087338,not as described,merchant fault
+T017977,not received,Affirm fault
+T085096,not as described,Affirm fault
+T054946,not received,Affirm fault
+T083771,never shipped,merchant fault
+T026868,never shipped,buyer fault
+T094833,not received,buyer fault
+T094158,never shipped,Affirm fault
+T071433,not as described,merchant fault
+T007396,not received,Affirm fault
+T100839,not received,Affirm fault
+T100698,not received,buyer fault
+T080991,not received,Affirm fault
+T004185,not as described,merchant fault
+T110977,never shipped,Affirm fault
+T029050,never shipped,buyer fault
+T013769,never shipped,merchant fault
+T060805,not as described,merchant fault
+T036516,never shipped,buyer fault
+T084027,not as described,buyer fault
+T043179,not as described,buyer fault
+T073221,not received,merchant fault
+T071114,not as described,merchant fault
+T113362,not received,buyer fault
+T014766,not as described,merchant fault
+T020038,never shipped,buyer fault
+T108760,not received,Affirm fault
+T079374,not as described,buyer fault
+T109844,not as described,merchant fault
+T111009,not as described,merchant fault
+T101625,not received,merchant fault
+T038905,not received,merchant fault
+T087256,not received,buyer fault
+T044400,not as described,Affirm fault
+T007749,not received,buyer fault
+T002725,never shipped,Affirm fault
+T042170,never shipped,buyer fault
+T056704,not received,buyer fault
+T085024,not received,merchant fault
+T052819,not as described,merchant fault
+T076746,not as described,merchant fault
+T033918,never shipped,Affirm fault
+T027646,not received,merchant fault
+T075819,not as described,Affirm fault
+T052368,not as described,Affirm fault
+T011752,never shipped,buyer fault
+T053179,not received,Affirm fault
+T088016,not as described,buyer fault
+T081393,not received,buyer fault
+T055742,not as described,merchant fault
+T039774,not received,merchant fault
+T062771,not received,merchant fault
+T033483,not received,buyer fault
+T012987,not received,merchant fault
+T004680,never shipped,merchant fault
+T073113,never shipped,Affirm fault
+T023244,not as described,buyer fault
+T007493,never shipped,buyer fault
+T004976,not received,Affirm fault
+T082772,never shipped,buyer fault
+T051220,not received,buyer fault
+T098684,never shipped,buyer fault
+T000116,not as described,Affirm fault
+T081271,not received,merchant fault
+T067423,not as described,Affirm fault
+T067119,not received,Affirm fault
+T078565,not as described,Affirm fault
+T012258,not as described,Affirm fault
+T038731,not as described,merchant fault
+T072340,never shipped,merchant fault
+T024974,not as described,Affirm fault
+T101510,not as described,merchant fault
+T097017,not received,buyer fault
+T033149,not as described,buyer fault
+T068273,never shipped,merchant fault
+T097526,never shipped,Affirm fault
+T051556,not as described,Affirm fault
+T010437,not as described,Affirm fault
+T044594,not received,merchant fault
+T101863,not as described,merchant fault
+T082350,never shipped,Affirm fault
+T034510,never shipped,buyer fault
+T062687,not received,Affirm fault
+T090220,not received,merchant fault
+T079717,not received,Affirm fault
+T021251,not as described,Affirm fault
+T052882,not received,merchant fault
+T083103,not received,Affirm fault
+T034635,never shipped,buyer fault
+T111700,not received,buyer fault
+T077474,never shipped,Affirm fault
+T085326,not received,merchant fault
+T007579,never shipped,Affirm fault
+T113679,not as described,merchant fault
+T031956,not as described,buyer fault
+T025353,not received,Affirm fault
+T055728,not received,Affirm fault
+T072928,never shipped,merchant fault
+T029808,never shipped,Affirm fault
+T057923,not received,merchant fault
+T027499,not received,Affirm fault
+T018123,never shipped,merchant fault
+T013646,not as described,Affirm fault
+T089417,not as described,buyer fault
+T019449,never shipped,buyer fault
+T074155,not as described,merchant fault
+T107150,not as described,merchant fault
+T016219,never shipped,merchant fault
+T035040,not received,buyer fault
+T013239,never shipped,Affirm fault
+T012092,not received,Affirm fault
+T000271,never shipped,Affirm fault
+T063315,never shipped,buyer fault
+T049913,not as described,merchant fault
+T072160,never shipped,Affirm fault
+T051763,not received,Affirm fault
+T007091,not as described,buyer fault
+T065699,not as described,buyer fault
+T049407,not received,buyer fault
+T012549,not received,Affirm fault
+T048870,not as described,merchant fault
+T110833,not received,merchant fault
+T052260,never shipped,Affirm fault
+T048022,not received,Affirm fault
+T023190,not received,merchant fault
+T083210,never shipped,merchant fault
+T053134,never shipped,merchant fault
+T113074,never shipped,Affirm fault
+T034629,not received,Affirm fault
+T073060,never shipped,merchant fault
+T049398,never shipped,Affirm fault
+T059216,not as described,Affirm fault
+T105671,never shipped,merchant fault
+T023326,not as described,merchant fault
+T051845,never shipped,merchant fault
+T070999,never shipped,buyer fault
+T101665,not received,Affirm fault
+T022658,not received,Affirm fault
+T070786,not as described,buyer fault
+T103496,not received,merchant fault
+T104554,not received,buyer fault
+T041670,not received,buyer fault
+T059675,not as described,merchant fault
+T061259,never shipped,buyer fault
+T001200,never shipped,buyer fault
+T064105,never shipped,buyer fault
+T038602,not received,Affirm fault
+T103863,never shipped,merchant fault
+T070009,not as described,Affirm fault
+T018821,not as described,Affirm fault
+T002063,not as described,buyer fault
+T019393,not as described,merchant fault
+T081276,never shipped,merchant fault
+T051434,not as described,Affirm fault
+T105787,not received,merchant fault
+T028298,not as described,merchant fault
+T028076,never shipped,merchant fault
+T068456,never shipped,buyer fault
+T064272,not as described,Affirm fault
+T041977,not as described,Affirm fault
+T094152,not received,Affirm fault
+T013099,not received,merchant fault
+T013463,never shipped,buyer fault
+T107259,never shipped,buyer fault
+T001003,not received,buyer fault
+T105237,not received,buyer fault
+T051476,never shipped,buyer fault
+T006651,never shipped,merchant fault
+T063869,never shipped,Affirm fault
+T101386,not received,buyer fault
+T065804,never shipped,buyer fault
+T058230,never shipped,buyer fault
+T107135,not as described,merchant fault
+T031062,not as described,merchant fault
+T027018,never shipped,Affirm fault
+T078889,not received,merchant fault
+T057563,never shipped,merchant fault
+T060190,not received,Affirm fault
+T043645,never shipped,buyer fault
+T098548,not received,Affirm fault
+T034323,never shipped,buyer fault
+T043691,not received,Affirm fault
+T079419,not received,merchant fault
+T032303,never shipped,merchant fault
+T054794,not received,buyer fault
+T011465,not received,buyer fault
+T019262,never shipped,Affirm fault
+T042639,not as described,merchant fault
+T107890,never shipped,buyer fault
+T059692,not as described,Affirm fault
+T068871,not as described,Affirm fault
+T025755,not received,merchant fault
+T038777,not received,buyer fault
+T068881,not as described,merchant fault
+T006153,never shipped,buyer fault
+T071509,not received,merchant fault
+T099677,never shipped,buyer fault
+T042662,never shipped,merchant fault
+T041986,not received,merchant fault
+T091808,never shipped,merchant fault
+T087215,not as described,Affirm fault
+T009664,not as described,merchant fault
+T053722,never shipped,Affirm fault
+T069738,not received,merchant fault
+T001518,not as described,buyer fault
+T031394,not received,merchant fault
+T046028,not as described,merchant fault
+T098682,not as described,Affirm fault
+T013042,not received,Affirm fault
+T019904,not received,Affirm fault
+T017472,not as described,merchant fault
+T109962,never shipped,merchant fault
+T054600,never shipped,Affirm fault
+T044230,not as described,Affirm fault
+T098418,never shipped,merchant fault
+T073100,not as described,merchant fault
+T109400,not received,Affirm fault
+T026444,not as described,merchant fault
+T035434,not received,buyer fault
+T003050,never shipped,merchant fault
+T017294,never shipped,Affirm fault
+T028935,never shipped,merchant fault
+T095480,not as described,merchant fault
+T112123,not as described,Affirm fault
+T067374,never shipped,merchant fault
+T091070,never shipped,merchant fault
+T029269,not received,merchant fault
+T077683,never shipped,merchant fault
+T012963,never shipped,Affirm fault
+T098269,not received,buyer fault
+T000617,not received,merchant fault
+T053119,not received,merchant fault
+T014448,never shipped,buyer fault
+T110632,not received,merchant fault
+T074834,not as described,Affirm fault
+T043489,not received,merchant fault
+T047017,not as described,merchant fault
+T008979,not received,Affirm fault
+T107176,never shipped,buyer fault
+T096611,not received,merchant fault
+T110760,not as described,Affirm fault
+T071473,not as described,buyer fault
+T116101,never shipped,merchant fault
+T087262,not received,Affirm fault
+T077253,not as described,Affirm fault
+T032523,never shipped,Affirm fault
+T036515,not as described,merchant fault
+T041243,never shipped,Affirm fault
+T074927,not received,buyer fault
+T024397,never shipped,merchant fault
+T014425,never shipped,buyer fault
+T021927,not as described,Affirm fault
+T043850,not received,merchant fault
+T060227,not received,merchant fault
+T115455,not received,Affirm fault
+T108642,not as described,Affirm fault
+T091820,not received,buyer fault
+T019510,not as described,Affirm fault
+T076309,never shipped,merchant fault
+T090372,not received,Affirm fault
+T016654,not as described,buyer fault
+T019243,not received,buyer fault
+T058121,never shipped,merchant fault
+T003913,not as described,buyer fault
+T108992,never shipped,Affirm fault
+T093731,never shipped,merchant fault
+T026695,never shipped,merchant fault
+T049138,never shipped,buyer fault
+T059667,not as described,merchant fault
+T046961,never shipped,buyer fault
+T033281,not as described,merchant fault
+T082480,never shipped,merchant fault
+T094910,not as described,merchant fault
+T096087,not received,buyer fault
+T033945,not received,Affirm fault
+T103020,not received,merchant fault
+T087340,not received,buyer fault
+T037150,not as described,buyer fault
+T015510,not as described,buyer fault
+T101845,never shipped,buyer fault
+T042799,never shipped,Affirm fault
+T006371,not received,buyer fault
+T087060,never shipped,merchant fault
+T105080,never shipped,merchant fault
+T103238,not as described,merchant fault
+T054783,never shipped,merchant fault
+T049483,not as described,merchant fault
+T077672,not as described,merchant fault
+T072282,not received,buyer fault
+T069995,not as described,buyer fault
+T113532,not received,Affirm fault
+T038801,not received,merchant fault
+T085649,not as described,merchant fault
+T104871,never shipped,merchant fault
+T064640,never shipped,buyer fault
+T012078,not received,merchant fault
+T063217,not received,Affirm fault
+T098006,not received,buyer fault
+T058734,never shipped,merchant fault
+T007877,not as described,buyer fault
+T093925,not received,merchant fault
+T071086,never shipped,Affirm fault
+T024463,never shipped,merchant fault
+T037251,never shipped,merchant fault
+T054276,never shipped,Affirm fault
+T070127,never shipped,Affirm fault
+T094830,never shipped,merchant fault
+T046735,never shipped,buyer fault
+T111471,not as described,buyer fault
+T032232,not received,merchant fault
+T000202,not as described,buyer fault
+T080079,not received,merchant fault
+T061857,never shipped,merchant fault
+T009574,not received,Affirm fault
+T006049,never shipped,merchant fault
+T054803,not received,merchant fault
+T104046,never shipped,Affirm fault
+T006701,never shipped,buyer fault
+T046249,not received,merchant fault
+T080439,not received,Affirm fault
+T096938,not received,merchant fault
+T047029,not as described,buyer fault
+T016287,never shipped,merchant fault
+T019958,never shipped,Affirm fault
+T065718,not received,merchant fault
+T088453,never shipped,merchant fault
+T047478,never shipped,Affirm fault
+T116153,never shipped,merchant fault
+T113767,not received,buyer fault
+T068340,not received,merchant fault
+T021424,not received,merchant fault
+T006335,never shipped,buyer fault
+T099585,not received,merchant fault
+T023963,not received,buyer fault
+T011987,not received,merchant fault
+T019525,not received,buyer fault
+T114175,never shipped,merchant fault
+T034255,not received,Affirm fault
+T006352,not as described,merchant fault
+T098340,not as described,Affirm fault
+T051965,never shipped,merchant fault
+T017689,never shipped,merchant fault
+T015088,never shipped,merchant fault
+T005182,not received,buyer fault
+T041211,never shipped,buyer fault
+T099981,not as described,Affirm fault
+T098003,not as described,buyer fault
+T087771,not as described,merchant fault
+T070703,not as described,Affirm fault
+T059741,not as described,merchant fault
+T019112,not received,buyer fault
+T053079,not as described,buyer fault
+T023235,never shipped,buyer fault
+T039563,never shipped,buyer fault
+T069471,not received,Affirm fault
+T022960,never shipped,merchant fault
+T064828,never shipped,merchant fault
+T082441,not received,buyer fault
+T020591,not received,merchant fault
+T059269,never shipped,Affirm fault
+T084883,not received,Affirm fault
+T040600,never shipped,buyer fault
+T002686,not as described,merchant fault
+T002440,not as described,merchant fault
+T019261,not as described,buyer fault
+T006317,not received,merchant fault
+T104066,not as described,buyer fault
+T064319,not received,merchant fault
+T012388,not as described,merchant fault
+T103886,never shipped,Affirm fault
+T088337,not as described,buyer fault
+T037374,not as described,merchant fault
+T046797,not as described,Affirm fault
+T022083,not received,merchant fault
+T038164,not as described,buyer fault
+T040332,not as described,Affirm fault
+T028711,not received,merchant fault
+T006813,never shipped,Affirm fault
+T076301,not as described,merchant fault
+T096425,not as described,buyer fault
+T046809,not as described,merchant fault
+T070005,never shipped,Affirm fault
+T051563,never shipped,buyer fault
+T102250,not received,Affirm fault
+T052309,not as described,merchant fault
+T091976,not received,buyer fault
+T100255,not as described,merchant fault
+T109867,not received,buyer fault
+T031598,not received,merchant fault
+T112203,not received,buyer fault
+T107375,not received,merchant fault
+T089125,not received,Affirm fault
+T047174,not as described,buyer fault
+T002990,never shipped,Affirm fault
+T087585,not received,merchant fault
+T057962,never shipped,merchant fault
+T016208,never shipped,Affirm fault
+T108053,not received,buyer fault
+T093179,not as described,merchant fault
+T063597,not as described,buyer fault
+T007124,not received,buyer fault
+T101350,not as described,buyer fault
+T076036,not received,Affirm fault
+T045585,not as described,buyer fault
+T031533,not received,buyer fault
+T107431,not as described,Affirm fault
+T009915,never shipped,Affirm fault
+T066207,not received,merchant fault
+T089017,not received,buyer fault
+T088672,not as described,merchant fault
+T022513,not received,buyer fault
+T031145,not as described,Affirm fault
+T039685,not received,merchant fault
+T061150,never shipped,merchant fault
+T106953,never shipped,merchant fault
+T007925,not received,buyer fault
+T097441,not as described,Affirm fault
+T030235,not as described,Affirm fault
+T103366,not as described,merchant fault
+T101393,not as described,buyer fault
+T028418,not received,Affirm fault
+T104001,not received,buyer fault
+T097723,not as described,Affirm fault
+T095939,never shipped,merchant fault
+T053454,never shipped,buyer fault
+T038392,not as described,Affirm fault
+T114480,never shipped,merchant fault
+T020963,not as described,buyer fault
+T065011,not received,Affirm fault
+T075473,not received,Affirm fault
+T072029,not received,Affirm fault
+T044822,never shipped,merchant fault
+T051281,not received,buyer fault
+T078876,never shipped,buyer fault
+T103716,not received,Affirm fault
+T068887,not as described,buyer fault
+T109287,never shipped,buyer fault
+T099145,never shipped,Affirm fault
+T105894,not received,buyer fault
+T101575,never shipped,buyer fault
+T082114,not received,merchant fault
+T024007,not as described,buyer fault
+T070262,never shipped,buyer fault
+T035571,never shipped,buyer fault
+T032376,not received,merchant fault
+T033892,never shipped,Affirm fault
+T102617,not received,merchant fault
+T110567,never shipped,merchant fault
+T037605,not received,Affirm fault
+T082122,not received,Affirm fault
+T057193,not received,merchant fault
+T110374,not as described,Affirm fault
+T039229,not received,buyer fault
+T089472,never shipped,Affirm fault
+T066872,not received,merchant fault
+T080828,not received,buyer fault
+T097136,not as described,Affirm fault
+T022669,not as described,Affirm fault
+T074058,never shipped,buyer fault
+T052091,not as described,merchant fault
+T087101,never shipped,buyer fault
+T006731,never shipped,buyer fault
+T070439,not received,buyer fault
+T053925,not received,buyer fault
+T059404,not received,buyer fault
+T033545,not as described,Affirm fault
+T057290,never shipped,merchant fault
+T046561,never shipped,merchant fault
+T089949,never shipped,Affirm fault
+T074051,not as described,merchant fault
+T115923,not as described,buyer fault
+T053046,not received,merchant fault
+T025681,not received,buyer fault
+T032130,not as described,buyer fault
+T062499,not as described,Affirm fault
+T023862,not received,buyer fault
+T078153,never shipped,merchant fault
+T068723,not as described,buyer fault
+T090932,never shipped,merchant fault
+T009299,never shipped,buyer fault
+T088873,not as described,Affirm fault
+T025044,not received,buyer fault
+T076673,never shipped,Affirm fault
+T091607,never shipped,buyer fault
+T056083,not as described,Affirm fault
+T033930,not as described,buyer fault
+T009421,not received,buyer fault
+T037452,never shipped,Affirm fault
+T071705,not received,Affirm fault
+T022183,not as described,buyer fault
+T082960,not as described,Affirm fault
+T044317,not as described,Affirm fault
+T091436,never shipped,Affirm fault
+T067206,never shipped,Affirm fault
+T018248,not as described,merchant fault
+T099605,not received,merchant fault
+T085832,not as described,merchant fault
+T103576,not received,merchant fault
+T113096,never shipped,buyer fault
+T052492,never shipped,merchant fault
+T055738,never shipped,buyer fault
+T076835,not as described,Affirm fault
+T010844,not as described,buyer fault
+T026792,not received,buyer fault
+T048659,not received,buyer fault
+T018995,not received,Affirm fault
+T030155,never shipped,Affirm fault
+T088764,not as described,buyer fault
+T015045,never shipped,merchant fault
+T034606,never shipped,Affirm fault
+T076218,not as described,merchant fault
+T092753,not as described,buyer fault
+T112845,never shipped,buyer fault
+T046218,not received,buyer fault
+T079852,not received,buyer fault
+T025376,not received,Affirm fault
+T007032,not as described,merchant fault
+T076111,never shipped,buyer fault
+T072064,not as described,buyer fault
+T080036,not received,buyer fault
+T092338,not as described,Affirm fault
+T078743,not as described,buyer fault
+T109693,not received,buyer fault
+T074204,never shipped,buyer fault
+T066233,not received,buyer fault
+T009761,not received,buyer fault
+T028829,not as described,Affirm fault
+T090982,never shipped,buyer fault
+T055052,never shipped,merchant fault
+T068159,not as described,Affirm fault
+T115491,not received,Affirm fault
+T100493,not as described,merchant fault
+T003657,not as described,Affirm fault
+T067087,never shipped,Affirm fault
+T112724,not as described,Affirm fault
+T043738,not as described,merchant fault
+T049520,not as described,buyer fault
+T017776,never shipped,buyer fault
+T038533,never shipped,merchant fault
+T092343,not received,merchant fault
+T088450,never shipped,buyer fault
+T086623,not as described,buyer fault
+T032930,not as described,Affirm fault
+T016312,never shipped,Affirm fault
+T088446,not received,Affirm fault
+T013291,never shipped,Affirm fault
+T052213,never shipped,buyer fault
+T048078,not as described,buyer fault
+T025015,not received,merchant fault
+T112667,never shipped,Affirm fault
+T104510,not as described,merchant fault
+T071281,not received,Affirm fault
+T024677,not as described,buyer fault
+T105921,never shipped,merchant fault
+T059365,not as described,merchant fault
+T068122,not as described,merchant fault
+T113640,never shipped,buyer fault
+T013036,not received,Affirm fault
+T058348,never shipped,merchant fault
+T050364,not received,buyer fault
+T022230,not received,buyer fault
+T049783,never shipped,merchant fault
+T010434,not as described,Affirm fault
+T096061,not as described,merchant fault
+T019937,never shipped,Affirm fault
+T013392,not received,Affirm fault
+T053580,never shipped,Affirm fault
+T037130,not received,merchant fault
+T056406,not as described,Affirm fault
+T040272,not received,buyer fault
+T034503,never shipped,Affirm fault
+T115587,not as described,Affirm fault
+T082626,not received,buyer fault
+T088513,not as described,merchant fault
+T061783,not received,Affirm fault
+T114234,not as described,buyer fault
+T006176,never shipped,Affirm fault
+T028493,not as described,Affirm fault
+T007165,never shipped,merchant fault
+T040923,not as described,merchant fault
+T092871,not as described,merchant fault
+T110949,not as described,merchant fault
+T008290,not as described,buyer fault
+T024707,not received,merchant fault
+T111183,not as described,Affirm fault
+T098832,never shipped,Affirm fault
+T111015,not as described,Affirm fault
+T069169,not received,Affirm fault
+T056273,not as described,buyer fault
+T116074,not received,merchant fault
+T048984,not received,Affirm fault
+T010766,not received,buyer fault
+T076485,never shipped,buyer fault
+T002816,not received,merchant fault
+T058971,not received,Affirm fault
+T022781,never shipped,Affirm fault
+T061071,not received,buyer fault
+T043012,not as described,merchant fault
+T046879,not as described,buyer fault
+T071363,never shipped,Affirm fault
+T028793,not received,Affirm fault
+T087384,not received,Affirm fault
+T000788,not as described,buyer fault
+T004912,never shipped,buyer fault
+T080608,never shipped,buyer fault
+T061784,not received,merchant fault
+T038454,not received,Affirm fault
+T045758,not received,buyer fault
+T062690,not received,merchant fault
+T108593,not as described,Affirm fault
+T009431,never shipped,Affirm fault
+T081962,not as described,merchant fault
+T064910,not as described,buyer fault
+T026025,never shipped,buyer fault
+T059843,not as described,merchant fault
+T031581,never shipped,merchant fault
+T017007,not as described,merchant fault
+T002541,not as described,merchant fault
+T029627,not received,buyer fault
+T025726,not as described,Affirm fault
+T014318,never shipped,Affirm fault
+T020945,never shipped,buyer fault
+T002788,not as described,buyer fault
+T038145,not as described,Affirm fault
+T047269,never shipped,buyer fault
+T022036,not received,Affirm fault
+T061194,never shipped,Affirm fault
+T094609,not received,Affirm fault
+T096726,not received,Affirm fault
+T112055,not received,buyer fault
+T115952,not as described,Affirm fault
+T094974,never shipped,merchant fault
+T094470,not received,merchant fault
+T000831,not as described,merchant fault
+T064030,not as described,buyer fault
+T107539,not as described,buyer fault
+T017955,not received,Affirm fault
+T035373,never shipped,buyer fault
+T110063,not received,merchant fault
+T111220,not received,merchant fault
+T009275,never shipped,buyer fault
+T028122,not received,buyer fault
+T046988,never shipped,Affirm fault
+T075408,not received,merchant fault
+T070160,never shipped,merchant fault
+T084368,never shipped,buyer fault
+T036948,not received,merchant fault
+T099850,never shipped,buyer fault
+T065794,not as described,Affirm fault
+T002260,not as described,buyer fault
+T097931,not received,Affirm fault
+T052326,not received,Affirm fault
+T051820,not received,merchant fault
+T026749,not as described,buyer fault
+T025953,not as described,Affirm fault
+T093693,never shipped,Affirm fault
+T063603,never shipped,buyer fault
+T081242,never shipped,merchant fault
+T105124,not received,Affirm fault
+T067045,never shipped,merchant fault
+T105520,not as described,buyer fault
+T015105,never shipped,buyer fault
+T109826,not received,buyer fault
+T002328,not received,merchant fault
+T039543,not received,merchant fault
+T009106,not as described,merchant fault
+T082589,never shipped,merchant fault
+T100326,not received,buyer fault
+T074361,not as described,buyer fault
+T025858,never shipped,buyer fault
+T043959,never shipped,merchant fault
+T041558,never shipped,Affirm fault
+T003138,not received,merchant fault
+T087693,not received,merchant fault
+T083014,not received,merchant fault
+T086035,not received,merchant fault
+T042112,not received,merchant fault
+T079627,not received,Affirm fault
+T035130,never shipped,merchant fault
+T031732,not received,merchant fault
+T100234,not as described,Affirm fault
+T038167,never shipped,merchant fault
+T100828,never shipped,buyer fault
+T003734,not received,Affirm fault
+T009123,not received,buyer fault
+T028468,never shipped,merchant fault
+T107454,not received,merchant fault
+T063501,not received,Affirm fault
+T028428,never shipped,buyer fault
+T000964,never shipped,Affirm fault
+T029609,not as described,buyer fault
+T043368,not received,merchant fault
+T066972,not as described,merchant fault
+T086486,never shipped,buyer fault
+T097616,not received,Affirm fault
+T035385,not as described,Affirm fault
+T001881,not as described,buyer fault
+T047423,not as described,merchant fault
+T032016,not as described,buyer fault
+T015115,not as described,merchant fault
+T070953,not received,buyer fault
+T030206,not as described,buyer fault
+T088738,never shipped,merchant fault
+T005824,not as described,Affirm fault
+T056416,not received,merchant fault
+T005407,not as described,buyer fault
+T003222,never shipped,merchant fault
+T003470,never shipped,merchant fault
+T042105,not received,buyer fault
+T082961,not received,Affirm fault
+T081406,not as described,buyer fault
+T111301,not received,merchant fault
+T046002,not received,buyer fault
+T075270,not received,merchant fault
+T069227,not received,merchant fault
+T099506,not received,buyer fault
+T063580,not received,buyer fault
+T115917,never shipped,merchant fault
+T040957,not as described,buyer fault
+T085419,not received,buyer fault
+T059748,not as described,buyer fault
+T062318,not as described,Affirm fault
+T066384,never shipped,buyer fault
+T019212,never shipped,Affirm fault
+T095142,never shipped,Affirm fault
+T044539,not received,merchant fault
+T114308,never shipped,merchant fault
+T067434,not received,merchant fault
+T002073,not as described,buyer fault
+T085358,not as described,Affirm fault
+T045510,never shipped,merchant fault
+T107074,not received,buyer fault
+T094689,not as described,buyer fault
+T076190,not as described,buyer fault
+T010697,not received,merchant fault
+T080083,never shipped,buyer fault
+T111462,not as described,merchant fault
+T010309,never shipped,Affirm fault
+T011134,never shipped,merchant fault
+T088776,not received,Affirm fault
+T013283,not received,merchant fault
+T008564,never shipped,merchant fault
+T037453,not received,Affirm fault
+T110426,not received,Affirm fault
+T002708,never shipped,Affirm fault
+T066438,not as described,buyer fault
+T054750,not received,buyer fault
+T044560,never shipped,merchant fault
+T011061,not as described,merchant fault
+T102034,never shipped,merchant fault
+T066381,not received,Affirm fault
+T110892,never shipped,buyer fault
+T084263,never shipped,merchant fault
+T094892,not as described,buyer fault
+T109862,not received,merchant fault
+T001575,never shipped,Affirm fault
+T030905,not received,merchant fault
+T057851,never shipped,Affirm fault
+T056052,never shipped,merchant fault
+T059997,never shipped,buyer fault
+T013558,never shipped,Affirm fault
+T033115,never shipped,merchant fault
+T045832,not received,buyer fault
+T053133,never shipped,merchant fault
+T104009,not received,Affirm fault
+T103934,not received,Affirm fault
+T018620,not received,buyer fault
+T071393,never shipped,buyer fault
+T045852,not received,buyer fault
+T051667,not received,merchant fault
+T086721,not as described,buyer fault
+T037163,not as described,Affirm fault
+T013414,not received,merchant fault
+T016521,not received,Affirm fault
+T020079,never shipped,merchant fault
+T008075,not received,merchant fault
+T058886,not received,Affirm fault
+T055186,not received,Affirm fault
+T110114,not received,buyer fault
+T059238,not as described,buyer fault
+T012994,not received,Affirm fault
+T000897,never shipped,Affirm fault
+T049188,not received,buyer fault
+T013442,never shipped,buyer fault
+T053308,never shipped,Affirm fault
+T052921,never shipped,buyer fault
+T104587,not as described,buyer fault
+T089419,not as described,merchant fault
+T026194,not as described,buyer fault
+T097381,never shipped,merchant fault
+T000305,never shipped,buyer fault
+T063094,not as described,merchant fault
+T075262,not received,Affirm fault
+T023929,not as described,Affirm fault
+T077766,not received,buyer fault
+T019784,not as described,buyer fault
+T002784,not received,Affirm fault
+T075064,never shipped,merchant fault
+T089811,not as described,Affirm fault
+T063667,never shipped,buyer fault
+T013244,not as described,merchant fault
+T047125,never shipped,Affirm fault
+T030726,not as described,Affirm fault
+T001600,never shipped,Affirm fault
+T113097,never shipped,buyer fault
+T081515,never shipped,buyer fault
+T063564,not received,buyer fault
+T056977,not as described,merchant fault
+T020825,not as described,merchant fault
+T009549,not received,merchant fault
+T032221,never shipped,Affirm fault
+T048112,not as described,buyer fault
+T047591,not as described,Affirm fault
+T029451,not received,merchant fault
+T091403,not received,Affirm fault
+T029500,never shipped,Affirm fault
+T037325,not as described,buyer fault
+T113482,not received,buyer fault
+T004149,not as described,merchant fault
+T025218,not as described,merchant fault
+T017165,never shipped,Affirm fault
+T103405,never shipped,buyer fault
+T081049,not as described,merchant fault
+T059831,not received,Affirm fault
+T104386,not received,merchant fault
+T011620,not as described,buyer fault
+T021505,not as described,Affirm fault
+T055128,never shipped,buyer fault
+T098569,not as described,merchant fault
+T078506,not as described,Affirm fault
+T007096,not received,Affirm fault
+T081954,not as described,Affirm fault
+T077037,not received,buyer fault
+T039107,not as described,Affirm fault
+T083844,never shipped,buyer fault
+T072712,never shipped,Affirm fault
+T074344,never shipped,Affirm fault
+T029619,not received,buyer fault
+T081656,not received,Affirm fault
+T029307,not received,Affirm fault
+T112814,not received,buyer fault
+T111676,not as described,merchant fault
+T095763,not as described,buyer fault
